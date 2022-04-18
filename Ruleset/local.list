@@ -6,3 +6,5 @@ host-suffix, *.iwgame.test, direct
 host-suffix, *.iwgame.com, direct
 host-suffix, *.pddpic.com, direct
 host-suffix, *.caiyunapp.com, direct
+host-suffix, *.qpic.cn, direct
+
