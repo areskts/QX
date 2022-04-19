@@ -8,4 +8,5 @@ host-suffix, *.pddpic.com, direct
 host-suffix, *.caiyunapp.com, direct
 host-suffix, *.qpic.cn, direct
 host-suffix, *.sinajs.cn, direct
+host-suffix, *.megvii.com, direct
 
