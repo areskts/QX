@@ -9,4 +9,6 @@ host-suffix, *.caiyunapp.com, direct
 host-suffix, *.qpic.cn, direct
 host-suffix, *.sinajs.cn, direct
 host-suffix, *.megvii.com, direct
+host-suffix, *.csdn.net, direct
+
 
