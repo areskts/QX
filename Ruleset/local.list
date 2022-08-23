@@ -1,7 +1,6 @@
 #host-suffix, local, direct
 host-suffix, lanhuapp.com, direct
 host-suffix, click.simba.taobao.com, direct
-host-suffix, *.iwgame.tec, direct
 host-suffix, *.iwgame.test, direct
 host-suffix, *.iwgame.com, direct
 host-suffix, *.pddpic.com, direct
